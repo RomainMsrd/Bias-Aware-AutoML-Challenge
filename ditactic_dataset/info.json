@@ -1,0 +1,15 @@
+{
+    "dataset_name" : "didactic_dataset",
+    "dataset_description" : "didactic, dataset # 1",
+    "total_categories" : 3,
+    "total_super_categorie" : 0,
+    "uniform_number_of_images_per_category" : false, 
+    "minimum_images_per_category" : 14,
+    "median_images_per_category" : 200,
+    "maximum_images_per_category" : 345,
+    "has_super_categories" : false,
+    "image_column_name" : "FILE_NAME",
+    "category_column_name" : "CATEGORY",
+    "super_category_column_name" : "SUPER_CATEGORY",
+    "images_in_sub_folder" : true
+}
